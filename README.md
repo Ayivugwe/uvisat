@@ -1,16 +1,11 @@
 # UviSaT
 
-A new Flutter project.
+Projet UviSaT
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+UviSat tient pour Uvira Safe Travel. Est un projet en cour de 
+developpement qui va permettre à tout le monde de trouver 
+facilement des lieux partout dans le Territoire d'Uvira. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
