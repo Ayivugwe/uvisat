@@ -2,7 +2,7 @@
 
 Projet UviSaT
 
-## Getting Started
+## A propos de nous
 
 UviSat tient pour Uvira Safe Travel. Est un projet en cour de 
 developpement qui va permettre à tout le monde de trouver 
